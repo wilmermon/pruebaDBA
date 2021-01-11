@@ -1,0 +1,27 @@
+
+
+1. Modelo Conceptual - 50 puntos (GitBranch: feature/dba er)
+
+  1.1. Preguntas - 15 puntos (GitBranch: feature/dba er/question)
+    Seleccione la respuesta correcta y explique brevemente el por que de su respuesta.
+    
+    La debilidad entre dos entidades implica:
+      • Que algunos atributos de la entidad debil dependen de algunos atributos de la entidad fuerte.
+      • Que todos los atributos de la entidad debil dependen de algunos atributos de la entidad fuerte.
+      • Que algunos atributos de la entidad debil dependen de todos los atributos de la entidad fuerte.
+      • Que todos los atributos de la entidad debil dependen de todos los atributos de la entidad fuerte.
+      • Ninguna de las anteriores.
+      
+    Un atributo discriminante en una entidad implica:
+      • No exist ́an tuplas dentro de la entidad
+      • No exist ́an tuplas  ́unicas dentro de la entidad
+      • Exist ́an tuplas dentro de la entidad
+      • Exist ́an tuplas  ́unicas dentro de la entidad
+      • Ninguna de las anteriores.
+    
+    Para un problema de almacenamiento existen:
+      • Solo un modelo Entidad-Relacion y solo un modelo Relacional
+      • Varios modelos Entidad-Relacion y solo un modelo Relacional
+      • Solo un modelo Entidad-Relacion y varios modelos Relacionales
+      • Varios modelos Entidad-Relacion y varios modelos Relacionales
+      • Ninguna de las anteriores.
